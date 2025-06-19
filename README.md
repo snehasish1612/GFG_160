@@ -7,3 +7,5 @@ Solved "Second Largest Element of an Array" problem.
 Solved "Move all zeros to end" problem.
 #Day - 3
 Solved "Reverse and Array" problem.
+#Day - 4
+Solved "Rotate Array" problem.
