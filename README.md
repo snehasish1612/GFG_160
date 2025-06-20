@@ -9,3 +9,5 @@ Solved "Move all zeros to end" problem.
 Solved "Reverse and Array" problem.
 #Day - 4
 Solved "Rotate Array" problem.
+#Day - 5
+Solved "Next Permutation" problem.
