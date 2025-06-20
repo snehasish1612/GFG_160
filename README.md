@@ -21,3 +21,6 @@ Solved "Majority Element II" problem.
 
 #Day - 7
 Solved "Stock Buy and Sell – Multiple Transaction Allowed" problem.
+
+#Day - 8 
+Solved "Stock Buy and Sell – Max one Transaction Allowed" problem.
