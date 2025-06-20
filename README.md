@@ -18,3 +18,6 @@ Solved "Next Permutation" problem.
 
 #Day - 6
 Solved "Majority Element II" problem.
+
+#Day - 7
+Solved "Stock Buy and Sell – Multiple Transaction Allowed" problem.
