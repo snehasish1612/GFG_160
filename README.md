@@ -27,3 +27,6 @@ Solved "Stock Buy and Sell – Max one Transaction Allowed" problem.
 
 #Day - 9
 Solved "Minimize the Heights II" problem.
+
+#Day - 10
+Solved "Kadane's Algorithm" problem.
