@@ -24,3 +24,6 @@ Solved "Stock Buy and Sell – Multiple Transaction Allowed" problem.
 
 #Day - 8 
 Solved "Stock Buy and Sell – Max one Transaction Allowed" problem.
+
+#Day - 9
+Solved "Minimize the Heights II" problem.
