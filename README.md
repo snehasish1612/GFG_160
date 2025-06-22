@@ -3,41 +3,41 @@ Solutions to the 160 most popular DSA problems on GeeksforGeeks with Java implem
 
 #Arrays
 
-#Day - 1
+#Day - 1:
 Solved "Second Largest Element of an Array" problem.
 
-#Day - 2 
+#Day - 2: 
 Solved "Move all zeros to end" problem.
 
-#Day - 3
+#Day - 3:
 Solved "Reverse and Array" problem.
 
-#Day - 4
+#Day - 4:
 Solved "Rotate Array" problem.
 
-#Day - 5
+#Day - 5:
 Solved "Next Permutation" problem.
 
-#Day - 6
+#Day - 6:
 Solved "Majority Element II" problem.
 
-#Day - 7
+#Day - 7:
 Solved "Stock Buy and Sell – Multiple Transaction Allowed" problem.
 
-#Day - 8 
+#Day - 8: 
 Solved "Stock Buy and Sell – Max one Transaction Allowed" problem.
 
-#Day - 9
+#Day - 9:
 Solved "Minimize the Heights II" problem.
 
-#Day - 10
+#Day - 10:
 Solved "Kadane's Algorithm" problem.
 
-#Day - 11
+#Day - 11:
 Solved "Maximum Product Subarray" problem.
 
-#Day - 12
+#Day - 12:
 Solved "Max Circular Subarray Sum" problem.
 
-#Day - 13
+#Day - 13:
 Solved "Smallest Positive Missing" problem.
