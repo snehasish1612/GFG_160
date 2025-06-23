@@ -49,3 +49,6 @@ Solved "Implement Atoi" problem.
 
 #Day - 15:
 Solved "Add Binary Strings" problem.
+
+#Day - 16:
+Solved "Anagram" problem.
