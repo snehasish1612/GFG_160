@@ -46,3 +46,6 @@ Solved "Smallest Positive Missing" problem.
 
 #Day - 14:
 Solved "Implement Atoi" problem.
+
+#Day - 15:
+Solved "Add Binary Strings" problem.
