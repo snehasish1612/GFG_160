@@ -54,3 +54,6 @@ Solved "Add Binary Strings" problem.
 
 #Day - 16:
 Solved "Anagram" problem.
+
+#Day - 17:
+Solved "Non Repeating Character" problem.
