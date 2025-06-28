@@ -59,4 +59,7 @@ Solved "Anagram" problem.
 Solved "Non Repeating Character" problem.
 
 #Day - 18:
-Search Pattern (KMP-Algorithm)
+Solved "Search Pattern (KMP-Algorithm)' problem.
+
+#Day - 19:
+Solved "Min Chars to Add for Palindrome" problem.
