@@ -72,3 +72,6 @@ Solved "Strings Rotations of Each Other" problem.
 
 #Day - 21:
 Solved "Sort 0s, 1s and 2s" problem.
+
+#Day - 22:
+Solved "Find H-Index" problem.
