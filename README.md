@@ -81,3 +81,6 @@ Solved "Count Inversions" problem.
 
 #Day = 24:
 Solved "Overlapping Intervals" problem.
+
+#Day - 25:
+Solved "Insert Interval" problem.
