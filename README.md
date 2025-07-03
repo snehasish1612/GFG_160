@@ -79,7 +79,7 @@ Solved "Find H-Index" problem.
 #Day - 23:
 Solved "Count Inversions" problem.
 
-#Day = 24:
+#Day - 24:
 Solved "Overlapping Intervals" problem.
 
 #Day - 25:
