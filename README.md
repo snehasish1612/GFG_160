@@ -84,3 +84,6 @@ Solved "Overlapping Intervals" problem.
 
 #Day - 25:
 Solved "Insert Interval" problem.
+
+#Day - 26:
+Solved "Non-overlapping Intervals" problem.
