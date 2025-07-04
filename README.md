@@ -87,3 +87,6 @@ Solved "Insert Interval" problem.
 
 #Day - 26:
 Solved "Non-overlapping Intervals" problem.
+
+#Day - 27:
+Solved "Merge Without Extra Space" problem.
