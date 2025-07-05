@@ -96,3 +96,6 @@ Solved "Merge Without Extra Space" problem.
 
 #Day - 28:
 Solved "Number of occurrence" problem.
+
+#Day - 29:
+Solved "Sorted and Rotated Minimum" problem.
