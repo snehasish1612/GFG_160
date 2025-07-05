@@ -99,3 +99,6 @@ Solved "Number of occurrence" problem.
 
 #Day - 29:
 Solved "Sorted and Rotated Minimum" problem.
+
+#Day - 30:
+Solved "Search in Rotated Sorted Array" problem.
