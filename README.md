@@ -102,3 +102,6 @@ Solved "Sorted and Rotated Minimum" problem.
 
 #Day - 30:
 Solved "Search in Rotated Sorted Array" problem.
+
+#Day - 31:
+Solved "Peak element" problem.
