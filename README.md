@@ -90,3 +90,9 @@ Solved "Non-overlapping Intervals" problem.
 
 #Day - 27:
 Solved "Merge Without Extra Space" problem.
+
+
+#Searching
+
+#Day - 28:
+Solved "Number of occurrence" problem.
