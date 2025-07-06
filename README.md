@@ -105,3 +105,6 @@ Solved "Search in Rotated Sorted Array" problem.
 
 #Day - 31:
 Solved "Peak element" problem.
+
+#Day - 32:
+Solved "K-th element of two Arrays" problem.
