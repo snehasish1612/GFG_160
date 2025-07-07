@@ -114,3 +114,6 @@ Solved "Aggressive Cows" problem.
 
 #Day - 32:
 Solved "Allocate Minimum Pages" problem.
+
+#Day - 33:
+Solved "Kth Missing Positive Number in a Sorted Array" problem.
