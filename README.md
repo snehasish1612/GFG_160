@@ -129,3 +129,6 @@ Solved "Rotate by 90 degree" problem.
 
 #Day - 36:
 Solved "Search in a Row-Column sorted matrix" problem.
+
+#Day - 37:
+Solved "Search in a row-wise sorted matrix" problem.
