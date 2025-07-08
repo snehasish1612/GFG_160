@@ -117,3 +117,9 @@ Solved "Allocate Minimum Pages" problem.
 
 #Day - 33:
 Solved "Kth Missing Positive Number in a Sorted Array" problem.
+
+
+#Matrix
+
+#Day - 34:
+Solved "Spirally traversing a matrix" problem.
