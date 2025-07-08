@@ -126,3 +126,6 @@ Solved "Spirally traversing a matrix" problem.
 
 #Day - 35:
 Solved "Rotate by 90 degree" problem.
+
+#Day - 36:
+Solved "Search in a Row-Column sorted matrix" problem.
