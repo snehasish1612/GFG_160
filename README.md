@@ -132,3 +132,6 @@ Solved "Search in a Row-Column sorted matrix" problem.
 
 #Day - 37:
 Solved "Search in a row-wise sorted matrix" problem.
+
+#Day - 38:
+Solved "Search in a sorted Matrix" problem.
