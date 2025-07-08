@@ -123,3 +123,6 @@ Solved "Kth Missing Positive Number in a Sorted Array" problem.
 
 #Day - 34:
 Solved "Spirally traversing a matrix" problem.
+
+#Day - 35:
+Solved "Rotate by 90 degree" problem.
