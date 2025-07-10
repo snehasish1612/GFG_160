@@ -135,3 +135,6 @@ Solved "Search in a row-wise sorted matrix" problem.
 
 #Day - 38:
 Solved "Search in a sorted Matrix" problem.
+
+#Day - 39:
+Solved "Set Matrix Zeros" problem.
