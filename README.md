@@ -138,3 +138,6 @@ Solved "Search in a sorted Matrix" problem.
 
 #Day - 39:
 Solved "Set Matrix Zeros" problem.
+
+#Day - 40:
+Solved "Two Sum - Pair with Given Sum" problem.
