@@ -141,3 +141,6 @@ Solved "Set Matrix Zeros" problem.
 
 #Day - 40:
 Solved "Two Sum - Pair with Given Sum" problem.
+
+#Day - 41:
+Solved "Count pairs with given sum" problem.
