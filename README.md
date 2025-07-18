@@ -69,10 +69,16 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 - **Day 39**: Search in Row-wise Sorted Matrix  
 - **Day 40**: Search in a Sorted Matrix  
 - **Day 41**: Set Matrix Zeros  
+
+---
+
+### 📂 Hashing
+
 - **Day 42**: Two Sum – Pair with Given Sum  
 - **Day 43**: Count Pairs with Given Sum
 - **Day 44**: Find All Triplets with Zero Sum
 - **Day 45**: Intersection of Two arrays with Duplicate Elements
+- **Day 46**: Union of Arrays with Duplicates
 
 ---
 
