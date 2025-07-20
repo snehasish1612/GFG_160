@@ -79,6 +79,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 - **Day 44**: Find All Triplets with Zero Sum
 - **Day 45**: Intersection of Two arrays with Duplicate Elements
 - **Day 46**: Union of Arrays with Duplicates
+- **Day 47**: Longest Consecutive Subsequence
 
 ---
 
