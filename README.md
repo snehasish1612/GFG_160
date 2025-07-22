@@ -81,6 +81,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 - **Day 46**: Union of Arrays with Duplicates
 - **Day 47**: Longest Consecutive Subsequence
 - **Day 48**: Print Anagrams Together
+- **Day 49**: Subarrays with sum K
 
 ---
 
