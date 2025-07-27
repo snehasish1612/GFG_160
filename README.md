@@ -92,6 +92,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 
 - **Day 51**: Count all triplets with given sum in sorted array
 - **Day 52**: Count Pairs whose sum is less than target
+- **Day 53**: Sum Pair closest to target
 
 ---
 > 🛠 More solutions coming soon. Stay consistent and keep solving!
