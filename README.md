@@ -97,6 +97,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 - **Day 55**: Count the number of possible triangles
 - **Day 56**: Indexes of Subarray Sum
 - **Day 57**: Count distinct elements in every window
+- **Day 58**: Longest substring with distinct characters
 
 ---
 > 🛠 More solutions coming soon. Stay consistent and keep solving!
