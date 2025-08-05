@@ -96,6 +96,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 - **Day 54**: Pair with given sum in a sorted array
 - **Day 55**: Count the number of possible triangles
 - **Day 56**: Indexes of Subarray Sum
+- **Day 57**: Count distinct elements in every window
 
 ---
 > 🛠 More solutions coming soon. Stay consistent and keep solving!
