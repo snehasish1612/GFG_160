@@ -102,6 +102,13 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 - **Day 60**: Container With Most Water
 
 ---
+
+### 📂 Prefix Sum
+
+- **Day 61**: Equilibrium Point
+
+---
+
 > 🛠 More solutions coming soon. Stay consistent and keep solving!
 
 ---
