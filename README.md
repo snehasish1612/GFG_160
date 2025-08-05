@@ -99,6 +99,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 - **Day 57**: Count distinct elements in every window
 - **Day 58**: Longest substring with distinct characters
 - **Day 59**: Trapping Rain Water
+- **Day 60**: Container With Most Water
 
 ---
 > 🛠 More solutions coming soon. Stay consistent and keep solving!
