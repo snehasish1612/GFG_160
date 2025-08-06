@@ -106,6 +106,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 ### 📂 Prefix Sum
 
 - **Day 61**: Equilibrium Point
+- **Day 64**: Product array puzzle
 
 ---
 
