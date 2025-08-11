@@ -112,6 +112,12 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 
 ---
 
+### 📂 Linked List
+
+- **Day 65**: Reverse a linked list
+
+---
+
 > 🛠 More solutions coming soon. Stay consistent and keep solving!
 
 ---
