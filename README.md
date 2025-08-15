@@ -116,6 +116,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 
 - **Day 65**: Reverse a linked list
 - **Day 71**: Detect Loop in linked list
+- **Day 72**: Find the first node of loop in linked list
 
 ---
 
