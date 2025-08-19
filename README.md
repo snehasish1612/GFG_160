@@ -122,6 +122,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 - **Day 71**: Detect Loop in linked list
 - **Day 72**: Find the first node of loop in linked list
 - **Day 73**: Remove loop in Linked List
+- **Day 74**: LRU Cache
 
 ---
 
