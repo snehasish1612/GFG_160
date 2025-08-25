@@ -13,18 +13,13 @@ class Solution {
     
     static boolean isBalanced(String s) {
         // code here
-        Set<Character> openingSet = new HashSet<>();
-        openingSet.add('(');
-        openingSet.add('{');
-        openingSet.add('[');
-        
         char[] ch = s.toCharArray();
         Stack<Character> st = new Stack<>();
         
         for(int i = 0; i < ch.length; i++){
-            if(openingSet.contains(ch[i])){     //Opening bracket
+            if(ch[i] == '(' || ch[i] == '{' || ch[i] == '['){       //Opening bracket
                 st.push(ch[i]);
-            }else{                              //Closing bracket
+            }else{                                                  //Closing bracket
                 if(st.isEmpty()){
                     return false;
                 }
