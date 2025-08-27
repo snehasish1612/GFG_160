@@ -127,6 +127,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 ### 📂 Stack
 
 - **Day 99**: Parenthesis Checker
+- **Day 100**: Longest valid Parentheses
 - **Day 105**: Get Min from Stack
 
 ---
