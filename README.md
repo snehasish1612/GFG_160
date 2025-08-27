@@ -128,6 +128,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 
 - **Day 99**: Parenthesis Checker
 - **Day 100**: Longest valid Parentheses
+- **Day 101**: Next Greater Element
 - **Day 105**: Get Min from Stack
 
 ---
