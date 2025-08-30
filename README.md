@@ -131,6 +131,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 - **Day 101**: Next Greater Element
 - **Day 102**: Stock span problem
 - **Day 105**: Get Min from Stack
+- **Day 106**: Missing in Array
 
 ---
 
