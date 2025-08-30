@@ -134,6 +134,14 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 
 ---
 
+---
+
+### 📂 Bit Manupulation
+
+- **Day 157**: Find Only Repetitive Element from 1 to n-1
+
+---
+
 > 🛠 More solutions coming soon. Stay consistent and keep solving!
 
 ---
