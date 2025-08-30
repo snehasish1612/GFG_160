@@ -142,6 +142,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 - **Day 157**: Find Only Repetitive Element from 1 to n-1
 - **Day 158**: Missing in Array
 - **Day 159**: Unique Number I
+- **Day 160**: Unique Number II
 
 ---
 
