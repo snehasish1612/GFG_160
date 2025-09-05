@@ -137,6 +137,12 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 
 ---
 
+### 📂 Queue and Deque
+
+- **Day 108**: K Sized Subarray Maximum
+
+---
+
 ### 📂 Bit Manupulation
 
 - **Day 157**: Find Only Repetitive Element from 1 to n-1
