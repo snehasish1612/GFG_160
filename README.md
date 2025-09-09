@@ -132,6 +132,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 - **Day 101**: Next Greater Element
 - **Day 102**: Stock span problem
 - **Day 103**: Histogram Max Rectangular Area
+- **Day 104**: Max of min for every window size
 - **Day 105**: Get Min from Stack
 - **Day 107**: Decode the string
 
