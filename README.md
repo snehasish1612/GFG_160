@@ -141,6 +141,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 ### 📂 Queue and Deque
 
 - **Day 108**: K Sized Subarray Maximum
+- **Day 109**: Longest Bounded-Difference Subarray
 
 ---
 
