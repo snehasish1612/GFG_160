@@ -125,6 +125,12 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 
 ---
 
+### Tree
+
+- **Day 80**: Level order traversal
+
+---
+
 ### 📂 Stack
 
 - **Day 99**: Parenthesis Checker
