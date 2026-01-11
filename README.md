@@ -128,6 +128,7 @@ This repository contains **Java implementations** of the **160 most popular DSA 
 ### 📂 Tree
 
 - **Day 80**: Level order traversal
+- **Day 81**: Height of Binary Tree
 - **Day 85**: Inorder Traversal
 
 ---
